@@ -1,2 +1,2 @@
-# Bout-hacking.github.io
+# ABOUT-hacking.github.io
 Know some thing about hacking
